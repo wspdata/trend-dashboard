@@ -79,8 +79,6 @@ Willian De Souza Pereira — ws13292@gmail.com
 
 LinkedIn: https://linkedin.com/in/willian-de-souza-pereira-b69109202
 
-GitHub: https://github.com/willtrash
-
 ## Licença
 
 Este repositório está disponível para estudo e demonstração. Sinta-se à vontade para clonar, adaptar e abrir *issues* com dúvidas ou sugestões.
